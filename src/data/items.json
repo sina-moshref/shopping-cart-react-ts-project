@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.88,
+    "imgUrl": "/img/p-3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1200.88,
+    "imgUrl": "/img/p-4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pen",
+    "price": 14.8,
+    "imgUrl": "/img/p-5.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "price": 2.88,
+    "imgUrl": "/img/p-6.jpg"
+  }
+]
